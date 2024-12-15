@@ -45,6 +45,11 @@ I'm always excited to:
     <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firestore" />
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Drizzle_ORM-24292F?style=flat&logo=databricks&logoColor=white" alt="Drizzle ORM" />
+    <img src="https://img.shields.io/badge/Neon-00FF9C?style=flat&logo=neon&logoColor=black" alt="Neon" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/ShabCn-800080?style=flat&logo=superuser&logoColor=white" alt="ShabCn" />
 </p>
 
 ---
