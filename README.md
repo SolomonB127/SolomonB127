@@ -49,7 +49,8 @@ I'm always excited to:
     <img src="https://img.shields.io/badge/Drizzle_ORM-24292F?style=flat&logo=databricks&logoColor=white" alt="Drizzle ORM" />
     <img src="https://img.shields.io/badge/Neon-00FF9C?style=flat&logo=neon&logoColor=black" alt="Neon" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/ShabCn-800080?style=flat&logo=superuser&logoColor=white" alt="ShabCn" />
+    <img src="https://img.shields.io/badge/ShadCN-800080?style=flat&logo=superuser&logoColor=white" alt="ShadCN" />
+    <img src="https://img.shields.io/badge/Inngest-00B4B6?style=flat&logo=inngest&logoColor=white" alt="Inngest" />
 </p>
 
 ---
